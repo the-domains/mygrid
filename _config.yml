@@ -1,0 +1,28 @@
+name: MyGrid
+favicon: null
+layout_spectrum: 0.13551736786030233
+typography_spectrum: 0.2689997151028365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4234801821876317
+  lightness: 0.2733782019931823
+  saturation: 0.5262279901653528
+  rhythmicContrast: 0.5956071224063635
+purpose: []
